@@ -1,0 +1,13 @@
+{
+  "name": "p5.sound",
+  "version": "1.0.0",
+  "description": "p5.jsのライブラリであるp5.soundの学習用リポジトリ",
+  "scripts": {
+    "start": "http-server -o"
+  },
+  "author": "soarflat",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
