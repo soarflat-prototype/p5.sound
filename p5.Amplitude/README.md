@@ -37,7 +37,9 @@ function setup() {
 
 以下は`getLevel()`取得した振幅（音量）の値を描画するサンプル
 
-***sound.js***
+<img src="../README_resources/p5.Amplitude/Amplitude.gif" width="145">
+
+**sound.js**
 
 ```javascript
 let sound;
