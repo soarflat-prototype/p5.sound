@@ -1,4 +1,4 @@
-#p5.SoundFile
+# p5.SoundFile
 音声の再生、停止、音量を変更などができるオブジェクトを返すコンストラクタ
 
 ## p5.SoundFileの使い方

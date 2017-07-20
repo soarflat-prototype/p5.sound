@@ -1,4 +1,4 @@
-#p5.Amplitude
+# p5.Amplitude
 再生中の音声の振幅（音量）の取得などができるオブジェクトを返すコンストラクタ
 
 ## p5.Amplitudeの使い方
